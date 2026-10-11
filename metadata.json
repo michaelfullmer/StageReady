@@ -1,0 +1,5 @@
+{
+  "name": "StageReady",
+  "description": "A career app for independent musicians featuring an AI Vocal Coach and Local Gig Finder.",
+  "requestFramePermissions": ["microphone"]
+}
